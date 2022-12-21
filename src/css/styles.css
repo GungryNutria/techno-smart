@@ -1,3 +1,10 @@
+:root{
+    --spanish-orange: #e16716ff;
+    --white: #ffffffff;
+    --black: #000000ff;
+    --outrageous-orange: #ff724bff;
+    --battleship-grey: #858585ff;
+}
 *{
     margin: 0px;
     padding: 0px;
