@@ -1,10 +1,11 @@
 :root{
-    --spanish-orange: #e16716ff;
+    --imperial-red: #ef3e3eff;
     --white: #ffffffff;
-    --black: #000000ff;
-    --outrageous-orange: #ff724bff;
-    --battleship-grey: #858585ff;
+    --black: #010100ff;
+    --blood-red: #600000ff;
+    --baby-pink: #fac7c7ff;
 }
+
 *{
     margin: 0px;
     padding: 0px;
