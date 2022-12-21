@@ -1,0 +1,12 @@
+:root{
+    --imperial-red: #ef3e3eff;
+    --white: #ffffffff;
+    --black: #010100ff;
+    --blood-red: #600000ff;
+    --baby-pink: #fac7c7ff;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
