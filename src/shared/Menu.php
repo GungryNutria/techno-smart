@@ -7,15 +7,28 @@
             <li class="section-service-one">
                 <a class="despeglar" href="#">Servicios<img src="src/assets/downarrow_113600.svg" alt="arrowDown"></a>
                 <div id="menu-despegable" class="section-service">
-                    <a href="#">Ahorro de energia</a>
-                    <a href="#">Seguridad</a>
-                    <a href="#">Aditivos y Anticongelantes</a>
-                    <a href="#">Aceros Bal&iacute;sticos</a>
+                    <a href="#">Equipo Industrial</a>
+                    <a href="#">Equipos de Laboratorio</a>
+                    <a href="#">Servicio de Mantenimiento</a>
+                    <a href="#">Servicio de Consultoria</a>
+                    <a href="#">Desarrollo de Patentes</a>
+                    <a href="#">Transferencia Tecnologica</a>
+                    <a href="#">Instalaciones Electricas</a>
+                    <a href="#">Equipos de Manufactura</a>
                 </div>
             </li>
-            <li><a href="#">Que hacemos<img src="src/assets/downarrow_113600.svg" alt="arrowDown"></a></li>
+            <li>
+                <a href="#">Que hacemos<img src="src/assets/downarrow_113600.svg" alt="arrowDown"></a>
+                <div id="menu-despegable" class="section-service">
+                    <a href="#">Ahorro de Energia</a>
+                    <a href="#">Seguridad</a>
+                    <a href="#">Aditivos y Anticongelantes</a>
+                    <a href="#">Aceros Balisticos</a>
+                    <a href="#">Domótica</a>
+                    <a href="#">Inmótica</a>
+                </div>
+            </li>
             <li><a href="#">Contacto</a></li>
-            <li><a href="#">Sobre Nosotros</a></li>
     </div>
 </nav>
 <script src="src/JS/Menu.js"></script>

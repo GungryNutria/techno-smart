@@ -1,5 +1,5 @@
 <header>
-    <?php include('src/shared/Menu.php'); ?>
+    <?php include('src/shared/menu.php'); ?>
     <div class="header-body">
         <div class="left-body">
             <h1>Empresa lider en soluciones de TI</h1>
