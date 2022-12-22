@@ -27,20 +27,23 @@ header .header-body{
     align-items: center;
 }
 header .header-body .left-body{
+    margin: 1%;
     text-align: justify;
     z-index: 2;
-    width: 60%;
+    width: 30%;
     color: var(--white);
 }
 
+
 header .header-body .left-body h1{
-    width: 50%;
+    width: 80%;
     font-size: 50px;
 }
 
 header .header-body .left-body p{
+    width: 80%;
+
     font-size: 20px;
-    width: 50%;
 }
 
 header .header-body .left-body a{
@@ -48,11 +51,63 @@ header .header-body .left-body a{
     color: var(--white);
     font-size: 20px;
     text-decoration: none;
-    padding: 1% 2%;
+    padding: 2%;
     transition: all 1s ease;
 }
 header .header-body .left-body a:hover{
     background-color: var(--imperial-red);
     transition: all 1s ease;
-
+    
 }
+
+header .header-body .right-body{
+    margin: 1%;
+    z-index: 2;
+    width: 30%;
+    color: var(--white);
+}
+
+header .header-body .right-body form{
+    border-radius: 10px;
+    width: 100%;
+    height: 500px;
+    background-color: rgba(255, 255, 255, 0.8);
+}
+header .header-body .right-body form h1{
+    color: var(--blood-red);
+    font-size: 50px;
+    margin: 1%;
+    padding: 1%;
+}
+
+header .header-body .right-body form input{
+    border-radius: 10px;
+    text-decoration: none;
+    box-shadow: none;
+    border: none;
+    font-size: 20px;
+    width: 80%;
+    margin: 2%;
+    padding: 1%;
+}
+
+header .header-body .right-body form .message{
+    border-radius: 10px;
+    margin: 2%;
+    font-size: 20px;
+    width: 80%;
+    height: 80px;
+    padding: 1%;
+    border: none;
+}
+
+header .header-body .right-body form .contact-button{
+    background-color: var(--blood-red);
+    color: var(--white);
+    transition: all 1s ease;
+}
+header .header-body .right-body form .contact-button:hover{
+    background-color: var(--imperial-red);
+    transition: all 1s ease;
+}
+
