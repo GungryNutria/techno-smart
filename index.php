@@ -12,6 +12,7 @@
 <body>
     <?php
         include('src/pages/home_page.php');
+        include('src/shared/LibrariesJS.php')
     ?>
 </body>
 </html>
