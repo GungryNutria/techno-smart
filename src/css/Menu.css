@@ -6,17 +6,20 @@
     --baby-pink: #fac7c7ff;
 }
 
-nav.container-menu {
+header nav.container-menu {
     background-color: var(--white);
     display: flex;
     justify-content: center;
     align-items: center;
     font-family: 'Rubik', sans-serif;
+    z-index: 10;
+    position: relative;
+    height: 10vh;
 }
 
 nav.container-menu div.logo {
-    width: 170px;
-    height: 170px;
+    width: 10vh;
+    height: 10vh;
     margin-right: 100px;
 }
 
@@ -25,17 +28,18 @@ nav.container-menu div.logo a img {
     height: 100%;
 }
 
-div.container-sections ul {
+div.container-sections{
     display: flex;
     list-style: none;
+    position: relative;
 }
 
-div.container-sections ul a {
+div.container-sections a {
     text-decoration: none;
     margin-right: 25px;
     color: var(--blood-red);
 }
-div.container-sections ul li a img{
+div.container-sections li a img{
     width: 10px;
     height: 10px;
     margin-left: 4px;
@@ -45,7 +49,18 @@ li.section-service-one{
 }
 div.section-service{
     display: none;
-    flex-direction: column;
     position: absolute;
+    overflow: auto;
+    background-color: var(--white);
     border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.4);
+    transition: all 1s ease-in-out;
+}
+div.section-service a{
+    margin-top: 20px;
+}
+li.section-service-one:hover div.section-service{
+    display: block;
+    transition: all 1s ease-in-out;
 }
