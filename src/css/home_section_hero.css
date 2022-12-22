@@ -20,7 +20,7 @@ header::after{
 header .header-body{
     z-index: 1;
     width: 100%;
-    height: 100vh;
+    height: 90vh;
     display: flex;
     text-align: center;
     justify-content: center;
