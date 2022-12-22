@@ -1,0 +1,58 @@
+
+header{
+    z-index: 0;
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background-image: url(../assets/banner-background.jpg);
+    background-size: cover;
+}
+header::after{
+    z-index: 0;
+    content: '';
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.8);
+    width: 100%;
+    height: 100vh;
+    left: 0px;
+    top: 0px;
+}
+header .header-body{
+    z-index: 1;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+header .header-body .left-body{
+    text-align: justify;
+    z-index: 2;
+    width: 60%;
+    color: var(--white);
+}
+
+header .header-body .left-body h1{
+    width: 50%;
+    font-size: 50px;
+}
+
+header .header-body .left-body p{
+    font-size: 20px;
+    width: 50%;
+}
+
+header .header-body .left-body a{
+    background-color: var(--blood-red);
+    color: var(--white);
+    font-size: 20px;
+    text-decoration: none;
+    padding: 1% 2%;
+    transition: all 1s ease;
+}
+header .header-body .left-body a:hover{
+    background-color: var(--imperial-red);
+    transition: all 1s ease;
+
+}

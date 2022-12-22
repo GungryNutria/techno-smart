@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Techno Smart</title>
     <?php
-    include 'libraires.php';
+    include 'src/shared/libraries.php';
     ?>
 </head>
 <body>
