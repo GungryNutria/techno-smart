@@ -1,0 +1,8 @@
+.what-section{
+    margin-top: 5%;
+    width: 100%;
+}
+.what-section h1{
+    font-size: 50px;
+    color: var(--blood-red);
+}

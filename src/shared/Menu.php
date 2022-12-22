@@ -18,14 +18,16 @@
                 </div>
             </li>
             <li>
-                <a href="#">Que hacemos<img src="src/assets/downarrow_113600.svg" alt="arrowDown"></a>
+                <a href="#">¿Que hacemos?<img src="src/assets/downarrow_113600.svg" alt="arrowDown"></a>
                 <div id="menu-despegable" class="section-service">
                     <a href="#">Ahorro de Energia</a>
                     <a href="#">Seguridad</a>
                     <a href="#">Aditivos y Anticongelantes</a>
                     <a href="#">Aceros Balisticos</a>
-                    <a href="#">Domótica</a>
-                    <a href="#">Inmótica</a>
+                    <a href="#">Desarrollo en Medicina</a>
+                    <a href="#">Desarrollo en Armamento</a>
+                    <a href="#">Desarrollo en Vehículos no Tripulados</a>
+                    <a href="#">Automatizacion</a>
                 </div>
             </li>
             <li><a href="#">Contacto</a></li>
