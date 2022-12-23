@@ -4,8 +4,8 @@
     </div>
     <div class="container-sections">
             <li><a href="#">Inicio</a></li>
-            <li class="section-service-one">
-                <a class="despeglar" href="#">Servicios<img src="src/assets/downarrow_113600.svg" alt="arrowDown"></a>
+            <li  class="section-service-one">
+                <a onmouseout="bajarMenu()" href="#">Servicios<img src="src/assets/downarrow_113600.svg" alt="arrowDown"></a>
                 <div id="menu-despegable" class="section-service">
                     <a href="#">Equipo Industrial</a>
                     <a href="#">Equipos de Laboratorio</a>
@@ -17,8 +17,8 @@
                     <a href="#">Equipos de Manufactura</a>
                 </div>
             </li>
-            <li>
-                <a href="#">¿Que hacemos?<img src="src/assets/downarrow_113600.svg" alt="arrowDown"></a>
+            <li class="section-service-one">
+                <a onmouseout="bajarMenu()" href="#">¿Que hacemos?<img src="src/assets/downarrow_113600.svg" alt="arrowDown"></a>
                 <div id="menu-despegable" class="section-service">
                     <a href="#">Ahorro de Energia</a>
                     <a href="#">Seguridad</a>
@@ -33,4 +33,3 @@
             <li><a href="#">Contacto</a></li>
     </div>
 </nav>
-<script src="src/JS/Menu.js"></script>
