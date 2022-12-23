@@ -1,0 +1,34 @@
+.cases-section{
+    z-index: 0;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 80%;
+}
+.cases-section h1{
+    font-size: 50px;
+    color: var(--blood-red);
+}
+.case-box{
+    background-color: var(--blood-red);
+    border-radius: 10px;
+    z-index: 2;
+    position: relative;
+    width: 80%;
+    height: 500px;
+    
+}
+.case-box img{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    z-index: 3;
+    width: 100%;
+    height: 300px;
+    display: none;
+}
+.case-box .case-text{
+    
+    color: var(--white);
+    padding: 5%;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
