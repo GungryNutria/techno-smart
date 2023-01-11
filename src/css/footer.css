@@ -1,0 +1,38 @@
+footer{
+    background-color: var(--baby-pink);
+}
+footer .logo-container{
+    width: 80%;
+}
+footer .logo-container img{
+    width: 150px;
+}
+footer .contact-container{
+    width: 60%;
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    flex-flow: wrap;
+}
+footer .contact-container .contact-box{
+    color: var(--black);
+    width: 30%;
+}
+footer .contact-container .contact-box img{
+    width: 40px;
+    margin-top: 5%;
+}
+footer .contact-container .contact-box .contact-value{
+    font-size: 18px;
+    margin: 5%;
+    height: 70px;
+}
+footer .contact-container .contact-box .contact-title{
+    color: var(--imperial-red);
+}
+
+footer .copyright-container{
+    padding: 2%;
+    color: var(--blood-red);
+
+}
