@@ -1,5 +1,5 @@
 <center>
-<div class="about-container">
+<div class="about-container" id="about">
     <div class="about-box">
         <h1>Sobre Nosotros</h1>
         <br>

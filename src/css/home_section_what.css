@@ -37,4 +37,30 @@
     margin: 1%;
 }
 
+@media screen and (max-width:1024px){
+    
+}
+
+@media screen and (max-width:770px){
+    .what-section .what-container{
+        width: 100%;
+
+    }
+    .what-section .what-container .what-box{
+        width: 40%;
+    }
+
+    
+}
+@media screen and (max-width:600px){
+    .what-section h1{
+        font-size: 30px;
+        color: var(--blood-red);
+    }
+
+    .what-section .what-container .what-box{
+        width: 90%;
+    }
+}
+
 

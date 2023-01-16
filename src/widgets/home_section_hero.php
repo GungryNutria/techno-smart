@@ -1,12 +1,14 @@
-<header>
+<header id="home">
     <?php include('src/shared/menu.php'); ?>
     <div class="header-body">
         <div class="left-body">
+            <center>
             <h1>Empresa lider en soluciones de TI</h1>
             <br>
             <p>Somos una empresa comprometida con el cliente y dedicada a dar soluciones por medio de automatizacion a base de hardware y software</p>
             <br><br>
             <a href="#">Leer Mas</a>
+            </center>
         </div>
         <div class="right-body">
             <form action="">

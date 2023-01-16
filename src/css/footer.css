@@ -10,6 +10,7 @@ footer .logo-container img{
 footer .contact-container{
     width: 60%;
     display: flex;
+    flex-flow: wrap;
     text-align: center;
     justify-content: space-around;
     flex-flow: wrap;
@@ -35,4 +36,30 @@ footer .copyright-container{
     padding: 2%;
     color: var(--blood-red);
 
+}
+
+@media screen and (max-width:1024px){
+    footer .contact-container{
+        width: 90%;
+    }
+}
+
+@media screen and (max-width:770px){
+    footer .contact-container .contact-box .contact-value{
+        font-size: 18px;
+        margin: 5%;
+        height: 90px;
+    }
+    
+}
+
+@media screen and (max-width:600px){
+    footer .contact-container .contact-box{
+        width: 90%;
+        
+    }
+    footer .contact-container .contact-box .contact-value{
+        
+        height: 50px;
+    }
 }

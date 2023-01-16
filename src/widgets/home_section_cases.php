@@ -1,5 +1,5 @@
 <center>
-<div class="cases-section" id="proyectos">
+<div class="cases-section" id="cases">
 <h1>Casos de Exito</h1>
 <br><br>
 <div class="owl-carousel owl-theme">

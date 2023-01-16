@@ -1,5 +1,5 @@
 <center>
-<div class="what-section">
+<div class="what-section" id="what">
     <h1>¿Que hacemos?</h1>
     <br>
     <div class="what-container">

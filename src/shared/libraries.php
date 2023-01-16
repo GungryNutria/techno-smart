@@ -8,6 +8,7 @@
 <link rel="stylesheet" href="src/css/home_section_about.css">
 <link rel="stylesheet" href="src/css/home_section_what.css">
 <link rel="stylesheet" href="src/css/home_section_cases.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css">
 <link rel="shortcut icon" href="SRC/assets/logo.png" type="image/x-icon">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" integrity="sha512-tS3S5qG0BlhnQROyJXvNjeEM4UpMXHrQfTGmbQ1gKmelCxlSEBUaxhRBj/EFTzpbP4RVSrpEikbmdJobCvhE3g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
