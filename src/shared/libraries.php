@@ -4,6 +4,7 @@
 <link rel="stylesheet" href="src/css/styles.css">
 <link rel="stylesheet" href="src/css/menu.css">
 <link rel="stylesheet" href="src/css/footer.css">
+<link rel="stylesheet" href="src/css/burbujas_section_hero.css">
 <link rel="stylesheet" href="src/css/home_section_hero.css">
 <link rel="stylesheet" href="src/css/home_section_about.css">
 <link rel="stylesheet" href="src/css/home_section_what.css">
