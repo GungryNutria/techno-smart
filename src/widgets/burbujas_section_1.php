@@ -1,5 +1,5 @@
 <header class="burbujas-header">
-    <?php include('src/shared/menu.php'); ?>
+    <?php include('src/shared/Menu.php'); ?>
     <div class="banner">
         <h1>Burbujas cono 15 Grados 2D</h1>
     </div>

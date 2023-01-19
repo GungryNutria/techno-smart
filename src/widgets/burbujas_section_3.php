@@ -1,5 +1,5 @@
 <header class="burbujas-header">
-    <?php include('src/shared/menu.php'); ?>
+    <?php include('src/shared/Menu.php'); ?>
     <div class="banner">
         <h1>Burbujas libre con mallado</h1>
     </div>
