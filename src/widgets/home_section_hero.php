@@ -1,5 +1,5 @@
 <header id="home">
-    <?php include('src/shared/menu.php'); ?>
+    <?php include('src/shared/Menu.php'); ?>
     <div class="header-body">
         <div class="left-body">
             <center>
